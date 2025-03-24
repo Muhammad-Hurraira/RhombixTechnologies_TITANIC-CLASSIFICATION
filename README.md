@@ -78,3 +78,7 @@ Contributions are welcome! If you wish to enhance the codebase by adding new mod
 
 ## License
 This project is **open-source** and released under the **MIT License**.
+
+## Contact ☎️
+For any questions or inquiries, please feel free to approach me through the following account:
+- LinkedIn: https://www.linkedin.com/in/muhammad-hurraira-0993a4346/
